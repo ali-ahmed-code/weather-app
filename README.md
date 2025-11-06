@@ -11,4 +11,4 @@ It shows real-time weather information for any city using the **OpenWeatherMap A
 -  Shows a **loading spinner** while fetching data
 -  Displays clear **error messages** (e.g., "City not found")
 -  Uses **custom weather icons**
--  
+  
