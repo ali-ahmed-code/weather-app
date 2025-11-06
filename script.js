@@ -1,4 +1,4 @@
-const apiKey = "aab4fc996c02eda24b83041fd8a2c4ce8";
+const apiKey = "ab4fc996c02eda24b83041fd8a2c4ce8";
 
 const iconMap = {
   "01d": "https://cdn-icons-png.flaticon.com/512/869/869869.png", // clear day
